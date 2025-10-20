@@ -1,0 +1,21 @@
+{
+  "name": "SADC Disability Services",
+  "short_name": "SADC",
+  "description": "Comprehensive NDIS disability support services in Sydney",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0066ff",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><circle cx='96' cy='96' r='96' fill='%230066ff'/><path d='M58 96L81 119L134 66' stroke='white' stroke-width='16' fill='none' stroke-linecap='round'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><circle cx='256' cy='256' r='256' fill='%230066ff'/><path d='M155 256L216 317L357 176' stroke='white' stroke-width='42' fill='none' stroke-linecap='round'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
