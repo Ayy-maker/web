@@ -1010,11 +1010,14 @@ body {
     font-weight: 900;
     line-height: 1;
     margin-bottom: 0.75rem;
+    color: white;
 }
 
 .stat-large .stat-label {
     font-size: 1rem;
-    opacity: 0.9;
+    opacity: 0.95;
+    color: white;
+    font-weight: 500;
 }
 
 /* ============================================
