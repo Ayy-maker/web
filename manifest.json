@@ -8,12 +8,12 @@
   "theme_color": "#0066ff",
   "icons": [
     {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><defs><linearGradient id='g192' x1='0' y1='0' x2='192' y2='192'><stop offset='0%25' stop-color='%230066ff'/><stop offset='100%25' stop-color='%2300d4aa'/></linearGradient></defs><rect width='192' height='192' rx='48' fill='url(%23g192)'/><path d='M54 108C54 108 54 84 72 84C78 84 81 87 84 90C84 81 90 75 99 75C108 75 114 81 114 90V108M114 108V126C114 132 108 138 102 138C96 138 90 132 90 126V108M114 108C114 108 120 105 129 105C138 105 144 111 144 120V126C144 132 138 138 132 138H90' stroke='white' stroke-width='9' stroke-linecap='round' stroke-linejoin='round' fill='none'/><circle cx='72' cy='66' r='7.5' fill='white'/><circle cx='126' cy='81' r='6' fill='white'/></svg>",
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><defs><linearGradient id='g192' x1='0' y1='0' x2='192' y2='192'><stop offset='0%25' stop-color='%230066ff'/><stop offset='100%25' stop-color='%2300d4aa'/></linearGradient></defs><rect width='192' height='192' rx='48' fill='url(%23g192)'/><path d='M96 138C96 138 66 120 66 96C66 87 72 81 81 81C87 81 90 84 96 90C102 84 105 81 111 81C120 87 126 87 126 96C126 120 96 138 96 138Z' fill='white'/><path d='M75 105L84 114M108 114L114 105' stroke='white' stroke-width='7.5' stroke-linecap='round'/></svg>",
       "sizes": "192x192",
       "type": "image/svg+xml"
     },
     {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><defs><linearGradient id='g512' x1='0' y1='0' x2='512' y2='512'><stop offset='0%25' stop-color='%230066ff'/><stop offset='100%25' stop-color='%2300d4aa'/></linearGradient></defs><rect width='512' height='512' rx='128' fill='url(%23g512)'/><path d='M144 288C144 288 144 224 192 224C208 224 216 232 224 240C224 216 240 200 264 200C288 200 304 216 304 240V288M304 288V336C304 352 288 368 272 368C256 368 240 352 240 336V288M304 288C304 288 320 280 344 280C368 280 384 296 384 320V336C384 352 368 368 352 368H240' stroke='white' stroke-width='24' stroke-linecap='round' stroke-linejoin='round' fill='none'/><circle cx='192' cy='176' r='20' fill='white'/><circle cx='336' cy='216' r='16' fill='white'/></svg>",
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><defs><linearGradient id='g512' x1='0' y1='0' x2='512' y2='512'><stop offset='0%25' stop-color='%230066ff'/><stop offset='100%25' stop-color='%2300d4aa'/></linearGradient></defs><rect width='512' height='512' rx='128' fill='url(%23g512)'/><path d='M256 368C256 368 176 320 176 256C176 232 192 216 216 216C232 216 240 224 256 240C272 224 280 216 296 216C320 232 336 232 336 256C336 320 256 368 256 368Z' fill='white'/><path d='M200 280L224 304M288 304L304 280' stroke='white' stroke-width='20' stroke-linecap='round'/></svg>",
       "sizes": "512x512",
       "type": "image/svg+xml"
     }
