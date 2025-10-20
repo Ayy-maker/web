@@ -94,6 +94,12 @@ document.addEventListener('DOMContentLoaded', () => {
         observer.observe(card);
     });
     
+    // Observe gallery items
+    document.querySelectorAll('.gallery-item').forEach((item, index) => {
+        item.style.transitionDelay = `${index * 0.15}s`;
+        observer.observe(item);
+    });
+    
     // ====================================
     // NUMBER COUNTER ANIMATION
     // ====================================
