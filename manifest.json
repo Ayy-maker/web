@@ -8,12 +8,12 @@
   "theme_color": "#0066ff",
   "icons": [
     {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><defs><linearGradient id='g192' x1='0' y1='0' x2='192' y2='192'><stop offset='0%25' stop-color='%230066ff'/><stop offset='100%25' stop-color='%2300d4aa'/></linearGradient></defs><rect width='192' height='192' rx='48' fill='url(%23g192)'/><path d='M96 135C96 135 54 105 54 78C54 66 63 57 75 57C84 57 90 63 96 69C102 63 108 57 117 57C129 66 138 66 138 78C138 105 96 135 96 135Z' fill='white'/></svg>",
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><defs><linearGradient id='g192' x1='0' y1='0' x2='192' y2='192'><stop offset='0%25' stop-color='%230066ff'/><stop offset='100%25' stop-color='%2300d4aa'/></linearGradient></defs><rect width='192' height='192' rx='48' fill='url(%23g192)'/><path d='M54 108C54 108 54 84 72 84C78 84 81 87 84 90C84 81 90 75 99 75C108 75 114 81 114 90V108M114 108V126C114 132 108 138 102 138C96 138 90 132 90 126V108M114 108C114 108 120 105 129 105C138 105 144 111 144 120V126C144 132 138 138 132 138H90' stroke='white' stroke-width='9' stroke-linecap='round' stroke-linejoin='round' fill='none'/><circle cx='72' cy='66' r='7.5' fill='white'/><circle cx='126' cy='81' r='6' fill='white'/></svg>",
       "sizes": "192x192",
       "type": "image/svg+xml"
     },
     {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><defs><linearGradient id='g512' x1='0' y1='0' x2='512' y2='512'><stop offset='0%25' stop-color='%230066ff'/><stop offset='100%25' stop-color='%2300d4aa'/></linearGradient></defs><rect width='512' height='512' rx='128' fill='url(%23g512)'/><path d='M256 360C256 360 144 280 144 208C144 176 168 152 200 152C224 152 240 168 256 184C272 168 288 152 312 152C344 176 368 176 368 208C368 280 256 360 256 360Z' fill='white'/></svg>",
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><defs><linearGradient id='g512' x1='0' y1='0' x2='512' y2='512'><stop offset='0%25' stop-color='%230066ff'/><stop offset='100%25' stop-color='%2300d4aa'/></linearGradient></defs><rect width='512' height='512' rx='128' fill='url(%23g512)'/><path d='M144 288C144 288 144 224 192 224C208 224 216 232 224 240C224 216 240 200 264 200C288 200 304 216 304 240V288M304 288V336C304 352 288 368 272 368C256 368 240 352 240 336V288M304 288C304 288 320 280 344 280C368 280 384 296 384 320V336C384 352 368 368 352 368H240' stroke='white' stroke-width='24' stroke-linecap='round' stroke-linejoin='round' fill='none'/><circle cx='192' cy='176' r='20' fill='white'/><circle cx='336' cy='216' r='16' fill='white'/></svg>",
       "sizes": "512x512",
       "type": "image/svg+xml"
     }
