@@ -8,12 +8,12 @@
   "theme_color": "#0066ff",
   "icons": [
     {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><defs><linearGradient id='g192' x1='0' y1='0' x2='192' y2='192'><stop offset='0%25' stop-color='%230066ff'/><stop offset='100%25' stop-color='%2300d4aa'/></linearGradient></defs><rect width='192' height='192' rx='48' fill='url(%23g192)'/><path d='M58 96L81 119L134 66' stroke='white' stroke-width='16' stroke-linecap='round' stroke-linejoin='round' fill='none'/></svg>",
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><defs><linearGradient id='g192' x1='0' y1='0' x2='192' y2='192'><stop offset='0%25' stop-color='%230066ff'/><stop offset='100%25' stop-color='%2300d4aa'/></linearGradient></defs><rect width='192' height='192' rx='48' fill='url(%23g192)'/><path d='M96 135C96 135 54 105 54 78C54 66 63 57 75 57C84 57 90 63 96 69C102 63 108 57 117 57C129 66 138 66 138 78C138 105 96 135 96 135Z' fill='white'/></svg>",
       "sizes": "192x192",
       "type": "image/svg+xml"
     },
     {
-      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><defs><linearGradient id='g512' x1='0' y1='0' x2='512' y2='512'><stop offset='0%25' stop-color='%230066ff'/><stop offset='100%25' stop-color='%2300d4aa'/></linearGradient></defs><rect width='512' height='512' rx='128' fill='url(%23g512)'/><path d='M155 256L216 317L357 176' stroke='white' stroke-width='42' stroke-linecap='round' stroke-linejoin='round' fill='none'/></svg>",
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><defs><linearGradient id='g512' x1='0' y1='0' x2='512' y2='512'><stop offset='0%25' stop-color='%230066ff'/><stop offset='100%25' stop-color='%2300d4aa'/></linearGradient></defs><rect width='512' height='512' rx='128' fill='url(%23g512)'/><path d='M256 360C256 360 144 280 144 208C144 176 168 152 200 152C224 152 240 168 256 184C272 168 288 152 312 152C344 176 368 176 368 208C368 280 256 360 256 360Z' fill='white'/></svg>",
       "sizes": "512x512",
       "type": "image/svg+xml"
     }
