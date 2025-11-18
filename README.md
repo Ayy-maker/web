@@ -14,7 +14,7 @@ Professional NDIS disability support services website for Sydney.
 
 ## Live Demo
 
-Visit the live website: [https://ayy-maker.github.io/web/]([https://ayy-maker.github.io/web/](https://ayy-maker.github.io/SADC-web/]))
+Visit the live website: [[https://ayy-maker.github.io/SADC-web/)]
 
 ## Technologies
 
